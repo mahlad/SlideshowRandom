@@ -10,4 +10,15 @@ $(document).ready(function() {
 		opacity:'0.5'
 
 	});
+	/*$('div.slTow  a').mouseover(function(){
+		$(this).css({
+			'z-index':'2';
+		});
+	});
+	$('div.slTow  a').mouseout(function(){
+		$(this).css({
+			'z-index':'0';
+		});
+	});
+	*/
 });
