@@ -20,7 +20,7 @@
  	height: 500px;	
  }
  div.slTow  a{
- 	
+
  	border-top: 5px;
  	border-left: 5px;
  	border-right: 5px;
@@ -28,7 +28,7 @@
  	border-style: solid;
  	border-color: #fff;
  	position: absolute;
- 	
+ 	opacity:'0.5'
  	top: 0;
  	left: 0;
  }

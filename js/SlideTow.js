@@ -4,11 +4,10 @@ $(document).ready(function() {
 	var c=Math.floor(Math.random()*(360-90)+90);
 
 	$('div.slTow  a').animate({
-		"margin-top":b+'px',
-		"margin-left":a+'px',
-		'-moz-transform':'rotate('+c+'deg)',
-		opacity:'0.5'
-
+		"top":b+'px',
+		"left":a+'px',
+		'-moz-transform':'rotate('+c+'deg)'
+		
 	});
 	/*$('div.slTow  a').mouseover(function(){
 		$(this).css({
