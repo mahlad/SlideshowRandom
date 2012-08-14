@@ -1,0 +1,37 @@
+/*
+ * Js SlideShow Tow CSS
+ *
+ * Copyright (c) <2012> Mahla Delpak<mahlad365@gmail.com>
+ *
+ * http://opensource.org/licenses/MIT
+ */
+/*Global
+ ..............................*/
+ body{
+ 	background-color: #000 !important;
+
+ }
+ div.slTow{
+ 	border: 1px solid #fff;
+ 	color: #fff;
+ 	margin: 90px auto;
+ 	position: relative;
+ 	float: left;
+ }
+ div.slTow  a{
+ 	width: 300px;
+ 	height: 225px;
+ 	border-top: 5px;
+ 	border-left: 5px;
+ 	border-right: 5px;
+ 	border-bottom: 45px;
+ 	border-style: solid;
+ 	float: left;
+ 	border-color: #fff;
+ 	position: relative;
+ }
+ div.slTow > a > img{
+ 	
+ 	
+ }
+  
