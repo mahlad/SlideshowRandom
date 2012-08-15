@@ -5,10 +5,9 @@
 	<title>Js SlideShow Tow</title>
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/reset.css">
-	<link rel="stylesheet" href="css/grid.css">
-	<script src="js/html5shiv.js"></script>
+	
 	<script src="js/zepto.js"></script>
-	<script src="js/SlideTow.js"></script>
+	<script src="js/SlideTow.js" type="text/javascript" charset="utf-8" async defer></script>
 </head>
 <body>
 
