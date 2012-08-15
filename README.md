@@ -1,2 +1,2 @@
-SlideshowRandom
-===============
+Slideshow-Random
+================
