@@ -29,5 +29,14 @@ $(function(){
 			opacity:'0.9'
 		});
 	});
+	var imgPic=$('div.slTow a img')
+	imgPic.click(function(){
+		$(this).animate({
+			width:'800px',
+			height:'600px',
+			'-moz-transform':'rotate('+Math.random(90,91)+'deg)'
+		},500);
+
+	});
 
 });
