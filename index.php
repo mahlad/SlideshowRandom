@@ -2,18 +2,16 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>Js SlideShow Tow</title>
-	<link type="text/css" rel="stylesheet"  href="css/style.css">
+	<title>Js SlideShow Random</title>
 	<link type="text/css" rel="stylesheet" href="css/reset.css">
-	
+	<link type="text/css" rel="stylesheet" href="css/style.css">
 	<script type="text/javascript" src="script/zepto.js" ></script>
 	<script type="text/javascript" src="script/SlideTow.js"></script>
 </head>
 <body>
 
 	<div class="container">
-		
-		<div class="slTow">
+		<div class="slRnd">
 			<?php
 				$path='images';
 				$img_arr=scandir($path);
