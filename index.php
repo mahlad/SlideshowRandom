@@ -21,13 +21,13 @@
 					$val=explode('.',$value);
 					$endF=strtolower(end($val));
 					if(in_array($endF, $img_inc)){
-						echo "<a href='$path/$value'><img src='$path/small/$value'></a>";
+						echo "<div class='imgS'><img src='$path/small/$value'></div>";
+						
 						}
 				}
 
 			?>
-			
-			</div>
+		</div>
 	</div><!--container-->
 </body>
 </html>
